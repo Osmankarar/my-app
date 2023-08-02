@@ -8,7 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World! This is Metro DevOps Class! 
-                           We are invoking Jenkins" );
+        System.out.println( "Hello World! This is Metro DevOps Class! We are invoking Jenkins" );
     }
 }
